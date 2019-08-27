@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    //hotels category
+    <string name="hotels_category">HOTELS</string>
+
+    // first place.
+    <string name="first_hotel_place_title">Peerless Sarovar Portico</string>
+    <string name="first_hotel_place_info">This casual hotel in a commercial area.</string>
+    <string name="first_hotel_place_address">City Centre, Durgapur, West Bengal, India, Durgapur, West Bengal 713216</string>
+    <string name="first_hotel_place_timing">OPEN 24/7</string>
+    <string name="first_hotel_place_phone">0343 254 6601</string>
+
+    // second place.
+    <string name="second_hotel_place_title">The Citi Residenci Club Resort</string>
+    <string name="second_hotel_place_info">A unfussy hotel with a glass facade is 3.5 km from the lake.</string>
+    <string name="second_hotel_place_address">NH 2, Near Rajbandh, Durgapur Tehsil, Burdwan District, Banskopa, West Bengal 713212</string>
+    <string name="second_hotel_place_timing">OPEN 24/7</string>
+    <string name="second_hotel_place_phone">074073 03333</string>
+
+    // third place.
+    <string name="third_hotel_place_title">Hotel Banerjee Inn</string>
+    <string name="third_hotel_place_info">This casual hotel is a 4-minute walk from rides and waterslides at Anand Amusement Park</string>
+    <string name="third_hotel_place_address">3601, Satyajit Roy Path, City Center, Durgapur, West Bengal 713216</string>
+    <string name="third_hotel_place_timing">OPEN 24/7</string>
+    <string name="third_hotel_place_phone">0343 254 9944</string>
+
+    // fourth place.
+    <string name="fourth_hotel_place_title">City International</string>
+    <string name="fourth_hotel_place_info">Amid commercial buildings in the city centre</string>
+    <string name="fourth_hotel_place_address">CB-1, Satyajit Ray Sarani Rd, City Center, Durgapur, West Bengal 713216</string>
+    <string name="fourth_hotel_place_timing">OPEN 24/7</string>
+    <string name="fourth_hotel_place_phone">090024 83369</string>
+
+    // fifth place.
+    <string name="fifth_hotel_place_title">Luxor Hotel</string>
+    <string name="fifth_hotel_place_info">A commercial buildings in the city centre</string>
+    <string name="fifth_hotel_place_address">City Center, Durgapur, West Bengal 713216</string>
+    <string name="fifth_hotel_place_timing">OPEN 24/7</string>
+    <string name="fifth_hotel_place_phone">0343 254 6047</string>
+
+
+    //food_category
+    <string name="restaurants_category">FOOD</string>
+
+    // first place.
+    <string name="first_food_place_title">Ananyas Multicuisine Restaurant</string>
+    <string name="first_food_place_info">Homely Bengali and international restaurant offering home-cooked food and catering.</string>
+    <string name="first_food_place_address">Ground Floor, ADDA 3rd Administrative Building, City Centre, Durgapur, West Bengal 713216</string>
+    <string name="first_food_place_timing">Closes 10PM</string>
+    <string name="first_food_place_phone">074074 05555</string>
+
+    // second place.
+    <string name="second_food_place_title">Theque</string>
+    <string name="second_food_place_info">Homely Bengali restaurant offering delicious local dishes.</string>
+    <string name="second_food_place_address">Recol Park, Durgapur, West Bengal 713216</string>
+    <string name="second_food_place_timing">Closes 11PM</string>
+    <string name="second_food_place_phone">074073 01111</string>
+
+    // third place.
+    <string name="third_food_place_title">Dominos Pizza</string>
+    <string name="third_food_place_info">Delivery/carryout chain offering a wide range of pizza, plus chicken and other sides</string>
+    <string name="third_food_place_address">CROSSPACE Ground Floor, 821 (P) Gandhi More, Beside Junction Mall, City Center, Durgapur, West Bengal 713216</string>
+    <string name="third_food_place_timing">Closes 11PM</string>
+    <string name="third_food_place_phone">083484 94945</string>
+
+    // fourth place.
+    <string name="fourth_food_place_title">Apna Zaika Inn</string>
+    <string name="fourth_food_place_info">Homely Indian restaurant offering Indian food of large variety.</string>
+    <string name="fourth_food_place_address">A-30, Abanindra Bithi, Non-Company Housing Estate, City Center, Durgapur, West Bengal 713216</string>
+    <string name="fourth_food_place_timing">Closes 10PM</string>
+    <string name="fourth_food_place_phone">091260 43125</string>
+
+    // fifth place.
+    <string name="fifth_food_place_title">Food Mart</string>
+    <string name="fifth_food_place_info">Homely Indian and international restaurant offering standard quality food.</string>
+    <string name="fifth_food_place_address">City Center, Durgapur, West Bengal 713216</string>
+    <string name="fifth_food_place_timing">Closes 10PM</string>
+    <string name="fifth_food_place_phone">094340 34332</string>
+
+
+    //parks category
+    <string name="parks_category">PARKS</string>
+
+    // first place.
+    <string name="first_park_place_title">Junction Mall</string>
+    <string name="first_park_place_info">Shopping Malls, Shopping multiplex</string>
+    <string name="first_park_place_address">City Centre, Mauja - Faridpur | Near Citi Residency and Rose Valley Hotel, Durgapur</string>
+    <string name="first_park_place_timing">Closes 10PM</string>
+    <string name="first_park_place_phone">+91 343 254 3793</string>
+
+    // second place.
+    <string name="second_park_place_title">Durgapur Barrage</string>
+    <string name="second_park_place_info">The river is beautiful and the legendary barrage is a tourist spot.</string>
+    <string name="second_park_place_address"> Damodar River, Durgapur, India</string>
+    <string name="second_park_place_timing">Closes 10PM</string>
+    <string name="second_park_place_phone">NONE</string>
+
+    // third place.
+    <string name="third_park_place_title">Ram Mandir</string>
+    <string name="third_park_place_info">Sacred and Religious Sites, Sights Landmarks</string>
+    <string name="third_park_place_address">Bidhan Nagar | Near Muchi Para, Durgapur, India</string>
+    <string name="third_park_place_timing">Closes 10PM</string>
+    <string name="third_park_place_phone">NONE</string>
+
+    // fourth place.
+    <string name="fourth_park_place_title">Anand Amusement Park</string>
+    <string name="fourth_park_place_info">Water Parks, Water and Amusement Parks</string>
+    <string name="fourth_park_place_address"> Opp. Durgapur Cenema Hall, City Center, Durgapur 713216, India</string>
+    <string name="fourth_park_place_timing">Closes 10PM</string>
+    <string name="fourth_park_place_phone">+91 93330 35589</string>
+
+    // fifth place.
+    <string name="fifth_park_place_title">Garh Jungle</string>
+    <string name="fifth_park_place_info">Historic Walking Areas Sights Landmarks</string>
+    <string name="fifth_park_place_address">Nr. Eastern End, Durgapur, India</string>
+    <string name="fifth_park_place_timing">Closes 10PM</string>
+    <string name="fifth_park_place_phone">None</string>
+
+    //local category
+    <string name="local_category">LOCAL</string>
+
+    // first place.
+    <string name="first_local_place_title">Location of Durgapur</string>
+    <string name="first_local_place_info">Durgapur is located about 168 KM from Kolkata.
+        The National Highway -2 ( G.T. Road) passes through Durgapur.
+        Durgapur lies in 23.29 N Latitude 87.19 E Longitude.
+        Durgapur is well connected by Indian Railways.
+        Durgapur is also connected with Kolkata by SBSTC buses and private buses.
+        Many VOLVO buses also ply regularly through Durgapur and Kolkata.</string>
+
+    // second place.
+    <string name="second_local_place_title">City Centre</string>
+    <string name="second_local_place_info">City-Centre as the name suggest is grooming to become the heart of the city.
+        It is well connected with each and every buses in Durgapur.
+        Now a no of shopping malls arcades and a Cineplex
+        restaurants has grown in the area making it one of the most popular hangout for the youngsters.
+        Various business establishment has opened their offices in City-Centre.
+        All banks have opened the offices and many new are opening there branches in City-centre.
+        Besides City-Centre also boasts of well planned housing complex.
+        From Bengal-Ambuja to various other players have build housing complex in City-Centre
+        Hotel like Peerless Inn, Pathik, Luxor are available in there.
+        The Troika Park, Deer Park, Srijony-Art Gallery, Science  Energy Park add to the list of visiting spots in CITY-CENTRE.</string>
+
+    // third place.
+    <string name="third_local_place_title">Bidhan Nagar</string>
+    <string name="third_local_place_info">Bidhan Nagar is one of the posh area in Durgapur.
+        It has well planned and modern Housing Complexes.
+        The greenery look and the quiet ambience of the area has its attraction to housing Complex.
+        Many management Institutes has its branches here. The new engineering College,
+        Schools are coming up in the area. The state govt. hospital-Bidhannagar( S.D.)
+        ,E.S.I. Hospital, Dental research and now The Mission Hospital with most modern technology
+        and equipment has grown the area into a medical hub.</string>
+
+    // fourth place.
+    <string name="fourth_local_place_title">Benachity</string>
+    <string name="fourth_local_place_info">It is the oldest business Area in Durgapur.
+        It is about 3 Km in length with shops in both sides.
+        It is basically small merchandise and whole sell setup business, not the mall type setup.
+        But it is a huge commercial area of Durgapur, all banks in Durgapur have its branches in Benachity.
+        Recently Benachity is also changing its image and
+        now the old shops are getting changed to new multi storey building.
+        Now large show-rooms of every multinational branded company are coming up.
+        Benachity is well connected with each and every buses that ply on Durgapur.
+        The only problem that Benachity has is its parking problem.
+        The streets are very congested and shoppers have often problem in parking their vehicles.
+        The administration is looking after the matter and
+        soon a solution will emerge for the betterment of Durgapur's oldest business establishment- BENACHITY</string>
+
+    <string name="main_page_title">WELCOME TO DURGAPUR
+            START THE TOUR</string>
+
+</resources>

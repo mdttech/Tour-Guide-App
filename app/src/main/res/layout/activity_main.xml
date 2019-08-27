@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#FFFF00">
+
+    <ImageView
+        android:id="@+id/main_page_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:textAlignment="center"
+        android:scaleType="center"
+        android:src="@drawable/durgapur_city_image" />
+
+
+    <TextView
+        android:id="@+id/welcome_to_tour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openTourActivity"
+        android:text="WELCOME TO DURGAPUR"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textColorHighlight="@color/colorPrimaryDark"
+        android:textSize="32sp"
+        android:textStyle="italic"
+        android:textAlignment="center"
+        android:layout_margin="8dp"/>
+
+    <TextView
+        android:id="@+id/start_tour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openTourActivity"
+        android:text="TAKE THE TOUR"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="32sp"
+        android:textStyle="italic"
+        android:textAlignment="center"/>
+
+</LinearLayout>
